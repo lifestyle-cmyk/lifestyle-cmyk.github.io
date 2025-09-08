@@ -17,9 +17,7 @@ title: ホーム
 ## 📝 最新記事
 <ul>
   {% for post in site.posts limit:3 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}
-    </li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y/%m/%d" }}</li>
   {% endfor %}
 </ul>
 
