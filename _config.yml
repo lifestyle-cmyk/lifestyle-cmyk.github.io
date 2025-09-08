@@ -1,8 +1,6 @@
-title: "新卒OLのFX体験ブログ"
-description: "思ったより簡単に始められた！初心者OLのFX体験談"
+title: "🌸 新卒OLのFX奮闘記"
+description: "投資初心者の私がFXに挑戦！口座開設から学んだことまでシェアします。"
 baseurl: ""
-url: "https://yourusername.github.io/fx-ol-affiliate"
+url: "https://lifestyle-cmyk.github.io"
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+markdown: kramdown
