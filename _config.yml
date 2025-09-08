@@ -1,0 +1,8 @@
+title: "新卒OLのFX体験ブログ"
+description: "思ったより簡単に始められた！初心者OLのFX体験談"
+baseurl: ""
+url: "https://yourusername.github.io/fx-ol-affiliate"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
